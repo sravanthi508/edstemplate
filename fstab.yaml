@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: 'https://author-p95503-e1766003.adobeaemcloud.com/bin/franklin.delivery/sravanthi508/edstemplate/main'
+    type: 'markup'
+    suffix: '.html'
