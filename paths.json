@@ -1,0 +1,9 @@
+{
+  "mappings": [
+    "/content/edstemplate/:/",
+    "/content/edstemplate/configuration:/.helix/config.json",
+    "/content/edstemplate/metadata:/metadata.json",
+    "/content/edstemplate/placeholders:/en-au/placeholders.json"
+  ],
+  "includes": ["/content/edstemplate/"]
+}
